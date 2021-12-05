@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="OrdenaryGun" path="Mods/OrdinaryGun/filelist.xml" corepackage="false" gameversion="0.15.13.0">
+  <None file="Mods/OrdinaryGun/Weapon/pistol.png" />
+  <None file="Mods/OrdinaryGun/Weapon/pistol1.ogg" />
+  <None file="Mods/OrdinaryGun/Weapon/pistol2.ogg" />
+  <None file="Mods/OrdinaryGun/Weapon/pistol3.ogg" />
+  <None file="Mods/OrdinaryGun/Weapon/pistolmag.png" />
+  <None file="Mods/OrdinaryGun/Weapon/pistolround.png" />
+  <Item file="Mods/OrdinaryGun/Weapon/weapon.xml" />
+</contentpackage>
